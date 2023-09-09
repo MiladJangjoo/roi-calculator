@@ -1,0 +1,1 @@
+print(milad.CashOnCash())
